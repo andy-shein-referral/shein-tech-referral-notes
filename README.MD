@@ -102,7 +102,7 @@ https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1
 
 可能岗位已经下线、暂停或名称发生变化。建议以 SHEIN 招聘官网实时开放岗位为准。
 
-## 8. 隐私说明
+## 6. 隐私说明
 
 请不要在 GitHub Issue、评论区或公开页面粘贴简历、手机号、微信、邮箱等个人隐私信息。
 
@@ -114,6 +114,6 @@ https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1
 
 我不会将候选人个人信息公开发布，也不会用于与内推无关的用途。
 
-## 9. 更新记录
+## 7. 更新记录
 
 - 2026-06-20：创建本页面
